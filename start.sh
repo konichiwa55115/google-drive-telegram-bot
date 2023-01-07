@@ -3,4 +3,4 @@ git clone https://github.com/konichiwa55115/google-drive-telegram-bot /LazyDevel
 cd /LazyDeveloper
 pip3 install -r requirements.txt
 echo "Starting Bot...."
-python3 -m bot
+python -m bot
