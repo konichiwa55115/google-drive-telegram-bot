@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**السلام عليكم يا  {}.**\n أنا بوت أقوم برفع الملفات إلى جوجل درايف . يمكنك معرفة طريقة استعمالي عن طريق /help. \n\n . يجب أن ترسل عنوان بريد جوجل إلى هذا البوت أولاً @Dashmelchatbot ثم سيتم إضافة حسابك في غضون 6 ساعات كحد أقصى إن شاء الله  \n\n لبقية البوتات هنا \n\n https://t.me/ibnAlQyyim/1120 \n\n ممنوع استخدام البوت لرفع الأغاني أو الموسيقا أو الشيلات أو الأناشيد الإسلامية أو المسلسلات أو أي شيء حرام .  \n\n يمكنك التبرع لاستمرار المشروع من هنا \n\n (http://paypal.me/kelectronic89)"
 
     HELP_MSG = [
         ".",
