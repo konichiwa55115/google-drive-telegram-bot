@@ -1,3 +1,4 @@
+from pyrogram import enums
 import os
 import logging
 from pyrogram import Client
